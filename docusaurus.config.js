@@ -63,7 +63,7 @@ const config = {
         title: '',
         logo: {
           alt: 'Documentación de Chat Buho',
-          src: 'https://buho.la/images/chat/chat-buho.svg',
+          src: 'https://www.shutterstock.com/image-vector/air-jordan-sport-logo-icon-600nw-2270700541.jpg',
         },
         items: [
           // {
